@@ -167,4 +167,5 @@ cython_debug/
 **/properties.json
 **/Rock-Paper-Scissors
 **/Images
+/cat-scan-location-prediction/slice_localization_data.csv.zip
 
