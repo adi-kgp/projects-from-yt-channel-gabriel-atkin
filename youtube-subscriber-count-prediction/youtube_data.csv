@@ -1,0 +1,250 @@
+Video,Video title,Video publish time,End screen element clicks,Comments added,Shares,Likes (vs. dislikes) (%),Dislikes,Likes,Average percentage viewed (%),Average view duration,Views,Watch time (hours),Subscribers,Impressions,Impressions click-through rate (%)
+7E7tl6rm7VM,100% Accuracy Mushroom Classification - Data Every Day #013,23-Aug-20,5,8,36,98,1,49,19.96,0:03:17,1429,78.3655,11,10910,8.67
+-46XflOZewg,Bike Share Usage Prediction - Data Every Day #230,28-Mar-21,2,4,1,100,0,10,17.55,0:03:31,88,5.165,0,1601,3.37
+1OHk8urt60A,Tic-Tac-Toe Winner Classification - Data Every Day #140,28-Dec-20,2,3,4,100,0,10,17.03,0:04:13,108,7.5958,0,2251,2.04
+4lnUUZxeGBI,Health Insurance Interest Prediction - Data Every Day #038,17-Sep-20,2,3,6,100,0,6,16.01,0:04:21,297,21.5845,5,2674,6.28
+9AnCNBL8c6Q,Age Prediction From Facial Images (CNN Regression) - Data Every Day #200,27-Feb-21,2,5,3,100,0,14,20.11,0:04:53,266,21.6983,2,3014,5.14
+9KpiDAmijSE,Predicting University Rankings - Data Every Day #014,24-Aug-20,2,0,2,100,0,7,24.23,0:02:41,54,2.4239,2,1506,2.39
+Ci7pju1gNUY,Using Pipeline for Preprocessing (Employee Termination Prediction) - Data Every Day #191,18-Feb-21,2,4,0,100,0,16,24.26,0:07:53,139,18.3001,1,1797,3.73
+D3yyRMI_RTA,Employee Burnout Prediction (Model Selection) - Data Every Day #209,8-Mar-21,2,3,4,100,0,13,22.26,0:04:15,88,6.2566,1,1682,3.21
+E_3-9sGq7jk,Fish Image Species Classification (Transfer Learning) - Data Every Day #212,11-Mar-21,2,8,4,100,0,20,11.83,0:03:47,256,16.2104,10,2091,4.69
+FZCSe_Ve-f4,US Store Profit Prediction - Data Every Day #216,15-Mar-21,2,1,0,100,0,10,17.49,0:04:33,62,4.7164,1,1691,2.42
+R89DgPzHDIk,Perth House Price Prediction - Data Every Day #196,22-Feb-21,2,2,0,100,0,8,15.98,0:04:13,90,6.3347,3,1455,4.19
+RmTsvLTypIE,Blood Cell Image Classification (Deep Learning) - Data Every Day #188,14-Feb-21,2,8,0,100,0,14,7.86,0:02:10,382,13.8111,3,1973,4.46
+SX5YbR3d08s,Predicting Heart Failure - Data Every Day #009,19-Aug-20,2,4,6,100,0,10,21.62,0:03:24,257,14.5796,6,2663,5.93
+XNlxBipm_Kw,Shape Image Classification (CNNs) - Data Every Day #225,24-Mar-21,2,4,0,100,0,4,12.83,0:03:22,96,5.3914,1,1671,3.71
+Yg3RGlucdQU,Spotify Hit Prediction (Model Selection) - Data Every Day #181,7-Feb-21,2,2,4,100,0,12,17.84,0:03:11,234,12.4405,2,1830,6.78
+_7z2REeVxeU,Fetal Health Prediction (EDA/Model Selection) - Data Every Day #190,16-Feb-21,2,3,2,100,0,9,20.07,0:03:38,113,6.8535,2,1392,3.38
+eaa-7HLcAnQ,Detecting Cracks in Concrete Images (TensorFlow CNNs) - Data Every Day #183,9-Feb-21,2,5,13,100,0,17,14.84,0:05:55,222,21.9281,8,2574,4.08
+fiwSBIS6N9c,Company Market Cap Prediction (Model Selection) - Data Every Day #246,14-Apr-21,2,6,0,100,0,9,25.89,0:06:14,63,6.5462,0,822,3.77
+hbdcJO9CEZs,Human Activity Recognition - Data Every Day #099,17-Nov-20,2,3,15,100,0,7,12.81,0:02:27,377,15.4108,4,5017,5.18
+iPJ0ZgO04m4,London House Sales Prediction (Model Selection) - Data Every Day #219,18-Mar-21,2,2,0,100,0,13,23.09,0:03:13,117,6.2811,1,1707,3.87
+j5ay4Fn99Uw,Marketing Sales Prediction (Pipeline) - Data Every Day #226,25-Mar-21,2,0,0,100,0,8,21.31,0:04:21,92,6.6871,1,1768,3.34
+nn5Z-qpCeEE,Coffee Production Prediction (Multiple DataFrames) - Data Every Day #223,22-Mar-21,2,2,0,100,0,8,26.77,0:04:55,63,5.167,1,1503,2.73
+ -S-3M7hvqrA,Tunisia Property Price Prediction - Data Every Day #222,21-Mar-21,1,1,0,100,0,14,23.41,0:04:20,75,5.4329,4,1815,2.92
+2YM_miNKO9o,PS4 Game Rating Prediction (Model Selection) - Data Every Day #227,26-Mar-21,1,0,0,100,0,4,20.55,0:03:38,58,3.5202,0,1402,2.64
+35iRdqY01co,Food Image Classification (Transfer Learning) - Data Every Day #202,1-Mar-21,1,9,3,100,0,8,14.54,0:04:26,154,11.3806,3,2087,3.74
+3GCv4Qq5DZQ,Medical Cost Prediction - Data Every Day #108,26-Nov-20,1,1,4,100,0,5,20.07,0:03:05,258,13.3035,3,2623,6.29
+5VP00gcgyo8,Employee Attrition Prediction (Model Selection) - Data Every Day #173,31-Jan-21,1,4,3,100,0,11,17.08,0:04:19,304,21.8894,5,3232,6.5
+8TCS3jEKS_U,UK Fuel Sale Year Prediction - Data Every Day #122,10-Dec-20,1,3,0,100,0,12,24.63,0:03:34,73,4.3404,3,2077,2.26
+AOF5g8TVsGc,Company Financial Status Prediction - Data Every Day #103,21-Nov-20,1,1,5,100,0,6,24.65,0:03:46,81,5.0971,1,1519,2.11
+AWmsXeIcI_E,Loan Risk Prediction - Data Every Day #138,27-Dec-20,1,0,3,100,0,9,11.19,0:06:01,282,28.3301,4,4365,3.25
+BFgbfk3LYtw,Appointment No-Show Prediction - Data Every Day #101,19-Nov-20,1,1,1,100,0,5,11.54,0:03:28,207,11.9806,3,2252,3.11
+BhlR-kHxc3E,Interview Success Prediction (Dimensionality Reduction) - Data Every Day #229,27-Mar-21,1,1,0,100,0,9,15.99,0:02:49,73,3.4373,1,1715,2.92
+BlEarwustEQ,Rock Paper Scissors Image Recognition (Image Augmentation) - Data Every Day #247,15-Apr-21,1,6,0,100,0,8,15.63,0:05:00,50,4.1802,0,714,3.64
+CutEMQcbN68,Fraudulent Firm Prediction (Model Selection) - Data Every Day #214,13-Mar-21,1,3,1,100,0,5,26.63,0:03:49,69,4.3901,0,1633,2.82
+FIY53JthQD0,Amazon Bestseller Genre Prediction - Data Every Day #079,28-Oct-20,1,1,5,100,0,7,9.43,0:03:29,106,6.1747,3,1646,2.37
+G5KFh9UZNfY,Chess Winner Prediction With RNNs - Data Every Day #063,12-Oct-20,1,0,0,100,0,7,13.24,0:04:43,56,4.4138,1,1397,1.29
+K7_HWT7u0fA,Gym Crowd Size Prediction (Model Selection) - Data Every Day #242,10-Apr-21,1,5,2,100,0,11,22.69,0:04:18,73,5.2365,0,1214,3.38
+LMdflMIYjQs,Air Quality Prediction (Feature Impact) - Data Every Day #235,2-Apr-21,1,3,0,100,0,9,17.31,0:02:05,66,2.3006,0,1162,3.27
+MfFe6FbWNSw,Abnormal Heartbeat Classification - Data Every Day #142,30-Dec-20,1,3,2,100,0,14,18.29,0:04:13,167,11.7746,4,2590,2.32
+NwlPj1JjbQU,Concrete Strength Prediction - Data Every Day #133,22-Dec-20,1,4,2,100,0,12,19.83,0:03:21,186,10.4086,4,2462,4.06
+Ocxufeylg9M,Mobile Phone Price Prediction With Pipeline - Data Every Day #085,3-Nov-20,1,0,2,100,0,6,26.76,0:02:38,85,3.7467,1,1804,2.83
+PLRZW6Az4hw,Online Course Certificate Type Prediction (Pipeline) - Data Every Day #231,29-Mar-21,1,4,0,100,0,8,19.16,0:04:29,69,5.1667,1,1758,2.39
+Q6ra1asM4sw,Supermarket Customer Satisfaction Prediction (Pipeline/Model Selection) - Data Every Day #194,20-Feb-21,1,4,0,100,0,8,13.16,0:04:11,111,7.7538,0,1746,2.98
+SFV-zQMuR0o,Predicting Movie Preferences - Data Every Day #049,28-Sep-20,1,1,0,100,0,5,22.82,0:04:29,166,12.4297,7,2218,1.44
+SqV5WQb1zWE,Mask Image Classification - (Deep Learning/CNNs) - Data Every Day #199,25-Feb-21,1,5,0,100,0,7,15.92,0:04:11,106,7.4103,1,1960,3.32
+VqQgKfl0lPg,Feature Selection Using Model Weights (Disease Prediction) - Data Every Day #178,5-Feb-21,1,4,2,100,0,17,21.17,0:06:14,159,16.5501,2,2237,2.64
+XAX03lA7TZM,CAT Scan Location Prediction (Deep Learning) - Data Every Day #245,13-Apr-21,1,3,0,100,0,7,23.02,0:05:19,53,4.7,0,874,2.75
+XzmLJasJhS4,Semiconductor Test Result Prediction (Imbalanced Classes) - Data Every Day #238,5-Apr-21,1,4,0,100,0,8,20.61,0:05:34,56,5.1975,1,1332,2.33
+YlUqKMIgeUg,SUV Data Multiple Target Prediction - Data Every Day #224,23-Mar-21,1,4,0,100,0,5,20.7,0:03:08,64,3.3484,0,1403,2.99
+_IcO9H1uaqc,Fertilizer Type Prediction (Pipeline) - Data Every Day #205,4-Mar-21,1,3,3,87.5,1,7,37.52,0:03:08,88,4.6047,0,1325,3.02
+achUxMMCMX4,Automobile Price Prediction With XGBoost - Data Every Day #093,11-Nov-20,1,0,2,100,0,6,15.31,0:04:27,173,12.8789,3,2359,4.58
+ax3XvWO0Pk4,Bankruptcy Prediction (Dimensionality Reduction) - Data Every Day #177,3-Feb-21,1,4,0,100,0,19,20.77,0:05:57,294,29.1649,10,2043,6.75
+baRbSngFHKw,Customer Behavior Prediction (Feature Engineering) - Data Every Day #210,8-Mar-21,1,6,0,100,0,10,22.27,0:02:51,133,6.3422,0,1642,3.59
+gVRR8cp0l94,Soccer Player Performance Prediction (Data Preprocessing) - Data Every Day #208,7-Mar-21,1,3,1,100,0,11,15.14,0:05:31,160,14.7351,2,2125,3.72
+hEExwYfoieY,EEG Hand Movement and User Prediction - Data Every Day #134,23-Dec-20,1,3,1,100,0,12,16.35,0:04:36,147,11.2736,4,2941,1.84
+hXHhXqzem8E,Bus Engine Replacement Prediction (EDA) - Data Every Day #206,5-Mar-21,1,0,0,100,0,4,23.28,0:04:51,64,5.1766,1,2014,1.79
+jF1-xBzXAXA,Analyzing Diamond Price Data - Data Every Day #005,16-Aug-20,1,2,8,95.24,1,20,21.31,0:03:44,396,24.7349,6,3243,7.15
+jLtaqJe5fNM,Clustering and Classifying Wine Data - Data Every Day #018,28-Aug-20,1,1,5,100,0,10,14.58,0:02:55,345,16.8324,2,2727,8.58
+jiktTYq6-no,Predicting National Happiness Levels - Data Every Day #017,27-Aug-20,1,0,2,100,0,10,34.82,0:03:40,142,8.6942,2,1964,4.43
+kn5hVBR40eo,Credit Card Default Prediction - Data Every #117,5-Dec-20,1,5,5,100,0,14,20.83,0:04:39,461,35.8551,8,5325,4.68
+m0Vl--yH578,Car Insurance Cold Call Success Prediction (Data Preprocessing) - Data Every Day #175,1-Feb-21,1,3,1,100,0,4,26.79,0:06:26,61,6.5552,0,1465,1.98
+p1znpVnjZKA,Marvel Character Image Classification (Transfer Learning) - Data Every Day #217,16-Mar-21,1,4,0,100,0,8,15.87,0:05:21,111,9.9216,2,1954,3.22
+pGMlafN2_m8,Shipment Arrival Prediction (Model Selection) - Data Every Day #203,2-Mar-21,1,2,1,100,0,17,31.88,0:04:13,122,8.5792,3,1517,2.97
+qmPJeMvQOkE,University Salary Prediction (Model Selection) - Data Every Day #240,8-Apr-21,1,5,1,100,0,8,19.16,0:04:47,88,7.0295,2,1332,4.13
+-2NNe6qiIg8,Airline Tweet Sentiment Prediction - Data Every Day #071,20-Oct-20,0,2,1,100,0,8,12.22,0:05:04,123,10.414,3,1944,3.76
+ -IOyk2HDZwc,Kickstarter Success Prediction - Data Every Day #069,18-Oct-20,0,1,1,100,0,4,24.47,0:06:48,67,7.6007,1,1467,2.86
+ -jPZvbG4M2c,COVID-19 Tweet Sentiment Prediction - Data Every Day #073,22-Oct-20,0,4,2,100,0,4,14.3,0:04:38,85,6.5768,0,1501,2.73
+02UymnbRPqA,Forest Fire Damage Prediction - Data Every Day #152,10-Jan-21,0,1,7,100,0,15,16.03,0:03:21,287,16.0427,2,3447,5.11
+0Jb0ywwLQgI,Deep Recurrent Neural Network for Gender Classification - Data #115,3-Dec-20,0,0,0,90.91,1,10,10.17,0:07:59,97,12.9233,2,2404,2.08
+0N__PFjOqno,Product Sales Prediction (Class Imbalance/Pipeline/CV) - Data Every Day #248,16-Apr-21,0,5,0,100,0,9,19.44,0:07:02,69,8.0991,2,734,5.18
+0OMW7tBWHs0,Predicting Space Mission Success - Data Every Day #025,4-Sep-20,0,0,0,100,0,4,20.43,0:10:29,26,4.5468,0,1492,1.07
+0WMF8yjCIdY,Low Code Glass Type Classification With PyCaret - Data Every Day #068,17-Oct-20,0,0,0,100,0,2,24.87,0:02:59,73,3.6407,2,1672,1.97
+0qSPtCw0InE,Cab Ride Price Prediction - Data Every Day #154,12-Jan-21,0,3,0,100,0,10,13.83,0:03:09,193,10.154,4,5514,1.51
+0y28myEZf3E,Marketing Campaign Response Prediction (Keras) - Data Every Day #189,15-Feb-21,0,2,0,100,0,7,20.37,0:06:04,91,9.2082,2,1475,2.51
+1KVRzz8jtMk,India Power Generation Region Prediction - Data Every Day #089,7-Nov-20,0,0,2,100,0,3,23.39,0:04:17,93,6.6526,1,1482,1.82
+1aWYj5lxiHY,Predicting City Houses With Scikit-learn - Data Every Day #002,12-Aug-20,0,7,0,100,0,19,19.21,0:06:01,193,19.3586,4,2217,4.56
+1nqSdBUJa4k,Predicting FIFA Man of the Match - Data Every Day #015,25-Aug-20,0,0,0,100,0,6,14.02,0:04:48,76,6.0865,0,1662,2.65
+2JwDkvWEVlM,Yearly Household Income Prediction - Data Every Day #148,6-Jan-21,0,4,1,100,0,7,16.61,0:06:37,123,13.5672,1,4966,1.15
+2O68xxOO5zc,Daily Visibility Prediction - Data Every Day #131,19-Dec-20,0,2,3,100,0,5,15.93,0:04:18,103,7.3992,0,2539,1.77
+35a7YOV_HTU,Classifying Environmental Program Types - Data Every Day #041,20-Sep-20,0,1,0,100,0,4,18.48,0:06:39,37,4.1034,0,1402,1.14
+3Fr1npNxkJk,Legendary Pokémon Classification - Data Every Day #052,1-Oct-20,0,2,0,100,0,7,10.03,0:05:22,122,10.9415,2,1889,3.76
+3LfPuT1-FL4,Car Review Rating Prediction (Multi-Input NN) - Data Every Day #164,22-Jan-21,0,3,1,100,0,7,10.67,0:06:11,54,5.5696,0,1658,1.63
+407AFbIi8HU,Predicting Chocolate Bar Ratings - Data Every Day #019,29-Aug-20,0,0,0,100,0,3,9.06,0:02:25,64,2.5815,1,1607,1.62
+42AaLwS7QK0,EEG Confusion Prediction (Full EDA + ML) - Data Every Day #106,24-Nov-20,0,2,0,100,0,9,16.14,0:07:20,135,16.5052,3,2408,2.87
+51Ub9c6guKE,Breast Cancer Tumor Classification (PCA Dimensionality Reduction) - Data Every Day #130,18-Dec-20,0,0,3,100,0,9,18.27,0:04:31,143,10.7841,1,3056,2.55
+55PIi9F9r-4,100% ACCURACY Used Car Engine Type Prediction - Data Every Day #097,16-Nov-20,0,1,1,100,0,2,15.68,0:04:21,76,5.5109,2,2013,1.49
+5YHWuUsoKEo,Abalone Attribute Prediction - Data Every Day #147,4-Jan-21,0,3,1,100,0,11,15.37,0:03:03,183,9.3067,1,2311,5.15
+5qeIBlgy5jM,Marvel or DC??? - Data Every Day #035,14-Sep-20,0,0,1,100,0,5,19.85,0:01:58,56,1.8407,0,1394,1.65
+6I2Xf8AfyTk,Smart Grid Stability Prediction (XGBoost) - Data Every Day #145,2-Jan-21,0,1,2,100,0,6,23.87,0:03:13,92,4.9473,0,1913,1.93
+75pwmIAzxKs,Star Type Prediction (K-Fold Model Evaluation) - Data Every Day #158,15-Jan-21,0,0,2,100,0,2,8.43,0:02:42,86,3.8736,1,5407,0.96
+7OQZTdXVwEk,Delhi House Price Prediction (Model Selection) - Data Every Day #182,8-Feb-21,0,3,2,100,0,16,19.23,0:05:35,130,12.0998,2,1637,3.36
+7cJfc3Dblng,Fruit Image Classification - Data Every Day #022,1-Sep-20,0,2,0,100,0,9,7.43,0:02:20,386,15.0287,3,3180,7.55
+8HLUmsMV2ho,Hand Gesture Classification - Data Every Day #104,22-Nov-20,0,0,5,100,0,10,13.49,0:02:27,119,4.8789,2,2258,2.17
+8TgEAhWZB1k,Mining Quality Prediction - Data Every Day #039,18-Sep-20,0,0,0,100,0,3,19.25,0:03:14,86,4.6398,0,1485,1.89
+8owMOMOx-9Q,Company Market Value Prediction - Data Every Day #228,27-Mar-21,0,6,0,100,0,7,18.52,0:04:42,73,5.7198,1,1775,2.42
+9-T48384oM0,Poland House Price Prediction (Pipeline) - Data Every Day #211,10-Mar-21,0,1,0,100,0,7,19.96,0:03:29,97,5.6512,0,1581,2.97
+9K3guNrgy-4,House Sale Price Prediction With PyTorch - Data Every Day #077,26-Oct-20,0,2,0,100,0,10,24.41,0:05:23,166,14.9235,4,2069,3.96
+9N6CU9nFKdQ,News Category Prediction (Word Embeddings) - Data Every Day #201,27-Feb-21,0,4,2,100,0,7,16.25,0:05:30,132,12.1208,0,1830,3.55
+9R-0WgJh7Zw,Email Spam Classification (NLP/Word Embeddings) - Data Every Day #221,20-Mar-21,0,2,0,100,0,6,17.39,0:04:41,113,8.8496,1,2096,3.1
+A2ao3wysAFk,RNN Hotel Rating Prediction - Data Every Day #098,16-Nov-20,0,0,1,83.33,1,5,17.46,0:03:11,92,4.891,0,1678,2.68
+AHF7mbBOUgM,Wild Blueberry Yield Prediction (Hyperparameter Optimization) - Data Every Day #237,4-Apr-21,0,2,1,100,0,9,18.34,0:02:32,84,3.5686,2,1312,3.28
+BFx8cJJoq9k,Car Auction Price Prediction - Data Every Day #137,26-Dec-20,0,1,0,100,0,5,14.65,0:04:16,60,4.2751,2,1843,1.57
+Bu0LoTZDgis,Heart Disease Prediction - Data Every Day #121,9-Dec-20,0,6,4,100,0,8,12.57,0:04:20,161,11.6565,2,2601,3.34
+CAKPtccHETk,Classifying Avocados by Type - Data Every Day #037,16-Sep-20,0,0,1,100,0,7,17.44,0:04:43,268,21.0938,5,2361,7.79
+DAS0M0Q2Jn8,Predicting Game Outcomes for CS:GO - Data Every Day #006,16-Aug-20,0,2,0,100,0,11,14.6,0:04:46,104,8.2744,0,1894,3.43
+DdjHrSiESwM,Tornado Magnitude Prediction - Data Every Day #169,27-Jan-21,0,2,0,100,0,5,14.28,0:02:57,48,2.3731,0,1167,2.23
+E1aJk9Z4usM,Soft Drink Sales Prediction - Data Every Day #159,17-Jan-21,0,3,1,100,0,7,10.65,0:03:42,97,5.9976,5,1562,2.82
+EY_dMXXtazg,Clothing Review Rating Prediction (RNNs/NLP) - Data Every Day #192,19-Feb-21,0,1,0,100,0,8,16.93,0:05:37,90,8.4342,4,1680,2.62
+FgesFcRLWBU,NYC Airbnb Availability Prediction - Data Every Day #081,30-Oct-20,0,0,0,100,0,6,12.69,0:05:15,144,12.6181,4,2172,4.05
+G0Wh-xTnCHs,Mental Health Treatment Prediction - Data Every Day #105,23-Nov-20,0,3,4,100,0,10,11.25,0:04:12,196,13.7645,3,3253,2.95
+GXx_q6cKErQ,Chess Grandmaster Prediction - Data Every Day #023,2-Sep-20,0,1,0,100,0,5,23.94,0:06:34,46,5.0408,0,1564,1.28
+H1i7d3XMzrY,Seattle Rain Prediction - Data Every Day #146,3-Jan-21,0,0,1,100,0,8,13.21,0:04:07,65,4.4617,1,1464,2.39
+HMSwljTtAlc,Video Game Sales Prediction - Data Every Day #028,7-Sep-20,0,3,7,100,0,6,13.29,0:03:15,248,13.4506,2,2520,5.08
+HSSWYT5ZFVY,Summer Clothing Sales Prediction - Data Every Day #026,5-Sep-20,0,0,1,100,0,5,16.98,0:04:27,54,4.0143,0,1464,1.91
+H_QNyFF4lBo,Rare Star Detection (Class Imbalance) - Data Every Day #180,7-Feb-21,0,0,1,100,0,6,15.21,0:03:29,48,2.788,0,1470,1.56
+HdOhQ1Qa_tk,Predicting Real Estate Value With Random Forests - Data Every Day #086,4-Nov-20,0,3,0,100,0,7,31.76,0:02:22,93,3.6836,4,1557,2.89
+I78TAjpPFD8,High Accuracy 911 Call Type Prediction - Data Every Day #111,29-Nov-20,0,3,0,100,0,3,8.67,0:03:52,124,8.0223,3,5081,1.22
+IAQdqaoHrfE,EEG Emotion Prediction - Data Every Day #126,15-Dec-20,0,8,11,100,0,22,12.11,0:04:49,420,33.8276,12,8248,2.09
+IPH42lJCOLI,Prescription Drug Type Prediction (Model Selection) - Data Every Day #198,25-Feb-21,0,3,0,100,0,7,19.45,0:02:47,69,3.2029,3,1421,2.67
+IoAL3QYcgcw,Video Game ESRB Rating Prediction (Model Selection) - Data Every Day #185,12-Feb-21,0,2,3,100,0,12,20.33,0:02:37,101,4.4147,3,1476,1.96
+J3_oKCySC7Y,Loan Payment Prediction (100% ACCURACY!) - Data Every Day #114,2-Dec-20,0,4,5,100,0,15,13.79,0:04:19,287,20.6625,4,3991,3.21
+JVMtedgNywo,Divorce Prediction (Principal Component Analysis) - Data Every Day #153,11-Jan-21,0,2,0,100,0,6,15.44,0:05:02,117,9.8274,3,3347,1.55
+JrtXX4cHgBI,Financial News Headline Sentiment Analysis (NLP) - Data Every Day #176,2-Feb-21,0,3,6,100,0,6,13.99,0:04:27,136,10.1242,6,1786,2.52
+JuX3Rk7j554,Face Image Classification - Data Every Day #042,21-Sep-20,0,4,1,100,0,14,11.9,0:04:25,164,12.0737,8,1624,2.71
+K5NqUMZomYE,Startup Funding Prediction (Keras Pipeline) - Data Every Day #218,16-Mar-21,0,3,4,100,0,4,11.68,0:04:39,104,8.0713,3,1530,3.4
+KCuHu-omxYE,Hospital Patient Type Prediction (Model Selection) - Data Every Day #249,17-Apr-21,0,9,0,100,0,3,34.64,0:03:11,10,0.5311,,148,2.7
+KtsOhUKAjI4,Food Review Rating Prediction - Data Every Day #094,12-Nov-20,0,3,0,100,0,3,6.39,0:02:28,92,3.7893,0,1728,2.84
+LLC8rmmVOjM,Predicting COVID-19 Mortality - Data Every Day #048,27-Sep-20,0,2,1,100,0,5,19.68,0:05:49,162,15.731,6,1564,1.98
+LQlTO5uhCQ8,How to Remove Outliers From Data (Spotify Song Popularity Prediction) - Data Every Day #127,16-Dec-20,0,7,8,100,0,23,13.5,0:05:27,360,32.7717,8,4578,3.87
+LhZFarrxb-E,Solar Radiation Regression (XGBoost/Optuna) - Data Every Day #092,10-Nov-20,0,2,9,100,0,10,15.94,0:05:20,307,27.3023,11,3137,4.53
+M0ND7Gpdt14,Flight Cancellation Prediction - Data Every Day #135,24-Dec-20,0,6,1,100,0,9,13.07,0:04:35,152,11.6379,0,2614,2.45
+MEbLvoXXnac,Lyme Disease Image Classification - Data Every Day #050,29-Sep-20,0,5,1,100,0,7,3.47,0:01:19,158,3.4983,3,1915,1.98
+Mi-MF1p40h8,Kiva Crowdfunding Loan Type Prediction (Data Preprocessing) - Data Every Day #149,7-Jan-21,0,0,0,100,0,7,11.56,0:06:12,116,12.0104,2,9646,0.7
+NAMmwgZ9ntE,Sign Language Digit Recognition (LeNet) - Data Every Day #144,1-Jan-21,0,4,2,100,0,8,11.1,0:03:09,108,5.6845,1,2179,2.94
+NULf94GVu44,Fake News Prediction Using GRUs - Data Every Day #066,15-Oct-20,0,3,2,100,0,4,15.57,0:05:18,71,6.2809,2,1569,2.87
+NeebXvQBa_g,Simple Citrus Fruit Classification - Data Every Day #096,14-Nov-20,0,0,0,100,0,6,20.97,0:01:31,110,2.8005,0,2063,2.81
+Nm8FO8_yHUI,Michelin Restaurant Star Prediction - Data Every Day #075,24-Oct-20,0,1,1,100,0,5,11.69,0:03:07,35,1.8268,2,1598,1
+NnQd8Q50EXM,Predicting Customer Churn - Data Every Day #040,19-Sep-20,0,1,0,100,0,6,11.45,0:03:59,128,8.5249,3,2136,4.03
+P7IRMxLJbhE,Greyhound Race Result Prediction - Data Every Day #156,14-Jan-21,0,1,2,100,0,4,18.18,0:03:37,132,7.9878,0,3804,1.58
+PZ_01UnKS9k,Predicting LoL Wins with TensorFlow - Data Every Day #001,11-Aug-20,0,7,3,95.24,1,20,5.7,0:02:53,725,34.8982,30,2404,5.74
+Pndpe80vaEA,Skin Cancer Image Classification - Data Every Day #123,11-Dec-20,0,2,4,94.44,1,17,12.79,0:04:46,225,17.8953,6,3127,3.2
+Pyx4egSbZj0,Insurance Premium Prediction (Interactive Widgets) - Data Every Day #234,1-Apr-21,0,2,0,100,0,10,10.43,0:03:20,71,3.9526,0,1353,3.4
+Q-mEPW2Zf4Q,Automobile MPG Prediction - Data Every Day #128,17-Dec-20,0,2,7,100,0,12,11.78,0:05:15,275,24.0929,6,5368,3.13
+Q3muXOjIlYo,Traffic Speed Prediction (Model Selection) - Data Every Day #166,23-Jan-21,0,0,0,100,0,6,18.71,0:03:00,81,4.0614,1,1461,2.87
+RHd26NU7LRs,Superstore Sales Prediction - Data Every Day #160,18-Jan-21,0,1,0,100,0,5,11.77,0:03:12,79,4.2318,0,1489,3.09
+RMFL36yY8C0,Hotel Classification - Data Every Day #056,5-Oct-20,0,0,0,100,0,6,11.14,0:04:00,90,6.0226,1,1519,3.03
+RQSXoxYq4Ew,Starbucks Coffee/Tea Classification - Data Every Day #091,9-Nov-20,0,0,2,100,0,3,17.57,0:04:40,61,4.7573,0,1667,1.68
+RXondyynoGY,Using PCA to Understand College Admissions - Data Every Day #004,14-Aug-20,0,2,3,100,0,7,26.97,0:04:58,84,6.9597,2,2046,2.25
+Rt91MatN6jk,Shipwreck Survival Prediction - Data Every Day #045,24-Sep-20,0,1,0,100,0,4,14.74,0:03:29,54,3.144,0,1886,1.7
+SBZ-xZcKTuU,Dandelion Image Classification (Transfer Learning) - Data Every Day #243,11-Apr-21,0,6,0,100,0,6,15.91,0:03:51,54,3.475,0,1053,3.04
+SmN-LA5b0rM,Back Problem Prediction - Data Every Day #107,25-Nov-20,0,3,0,100,0,7,13.61,0:02:25,73,2.9437,1,1786,2.13
+Sz2SDvg-0wE,Boat Image Classification (CNNs) - Data Every Day #197,24-Feb-21,0,6,0,100,0,9,23.6,0:05:49,66,6.4004,0,1900,1.95
+TncDz92WLiY,Mobile Payment Fraud Detection - Data Every Day #132,21-Dec-20,0,2,1,100,0,13,8.09,0:05:04,257,21.7359,4,10991,1.03
+UuyH60UIDPQ,Bank Note Forgery Detection (EDA) - Data Every Day #163,21-Jan-21,0,3,0,100,0,8,17.95,0:04:03,86,5.8241,1,1465,2.53
+V0qZpYEAmww,Campus Recruitment Salary Prediction - Data Every Day #129,18-Dec-20,0,2,2,100,0,7,8.19,0:02:33,99,4.2274,2,3483,1.61
+VeAk5Phb46I,Malignant Website Prediction - Data Every Day #136,25-Dec-20,0,3,0,100,0,7,13.29,0:07:07,95,11.2833,1,3125,1.54
+Wz6oUPkeZvY,Ice Cream Rating Prediction - Data Every Day #059,8-Oct-20,0,0,0,100,0,4,11.88,0:03:55,52,3.3951,4,1407,1.07
+XNzAwHLFEdw,Predicting Exam Performance with Linear Regression - Data Every Day #011,21-Aug-20,0,0,0,100,0,6,18.6,0:03:39,68,4.1417,2,1648,2.43
+YFvFoTZLKlA,McDonald's Menu Item Type Prediction - Data Every Day #083,1-Nov-20,0,1,0,100,0,9,11.91,0:04:25,60,4.4328,1,1606,2.37
+YlEXc6Kwoqc,Diabetes Prediction - Data Every Day #060,9-Oct-20,0,0,1,100,0,3,16.69,0:03:17,75,4.1092,2,1460,2.53
+ZJouexySecc,Global Temperature Time Series Forecasting - Data Every Day #168,26-Jan-21,0,1,6,100,0,10,19.11,0:03:47,125,7.9154,1,1346,3.42
+ZY5SK-A_myc,Patient Stroke Prediction (Class Imbalance) - Data Every Day #186,13-Feb-21,0,4,4,100,0,11,16.49,0:04:34,261,19.8771,5,2198,5.28
+ZkRJhWJ5n2A,Predicting Month From Sunrise/Sunset Times - Data Every Day #076,25-Oct-20,0,0,0,100,0,4,9.26,0:01:50,36,1.1081,0,1733,1.56
+ZuoBlgioKO0,Predicting Performance in School - Data Every Day #046,25-Sep-20,0,1,2,100,0,7,8.27,0:02:27,56,2.2994,0,1404,1.07
+ZzYkVO_wjMo,College Football Win Prediction - Data Every Day #030,9-Sep-20,0,0,0,100,0,4,12.02,0:05:26,21,1.9028,1,1323,1.13
+_IJ99hSxny8,Direct Marketing Effectiveness Prediction - Data Every Day #033,12-Sep-20,0,0,0,100,0,3,8.61,0:02:22,65,2.5732,0,1426,2.17
+_T-tk_2b9pY,NYC Property Price Prediction - Data Every Day #109,28-Nov-20,0,3,0,100,0,11,20.51,0:06:59,166,19.3336,3,2177,2.34
+_bpowohfGzg,Online Shopping Revenue Prediction - Data Every Day #074,23-Oct-20,0,0,0,100,0,9,17.36,0:03:06,127,6.5708,1,1608,3.48
+a-jw4_p01BQ,Working With the Classic Iris Dataset - Data Every Day #007,17-Aug-20,0,0,3,100,0,8,10.87,0:02:34,93,3.9993,3,2004,2.3
+aQ_8zjPWtvw,Engineering Salary Prediction - Data Every Day #161,19-Jan-21,0,2,2,100,0,10,16.27,0:04:15,100,7.1061,0,1653,3.09
+arfFLTtah_A,Predicting Oxygen in Rivers - Data Every Day #036,15-Sep-20,0,0,0,100,0,5,18.79,0:03:13,36,1.9372,2,1440,1.18
+b1H452jCs00,Health Insurance Customer Response Prediction - Data Every Day #220,19-Mar-21,0,3,0,100,0,9,14.09,0:03:51,90,5.7831,0,1766,3.45
+b7uc9XDyz3A,International Football Win Prediction - Data Every Day #061,10-Oct-20,0,3,4,100,0,4,16.46,0:05:22,50,4.4793,3,1367,1.83
+bFKuw3JlvCI,Used Car Price Prediction - Data Every Day #065,14-Oct-20,0,6,8,97.06,1,33,14.66,0:03:08,1153,60.4866,12,9785,8.07
+bPjwevN7MgI,Gas Sales Product Type Prediction - Data Every Day #070,19-Oct-20,0,1,0,100,0,6,11.51,0:03:33,41,2.4328,1,1500,2.07
+bX6A5S7V_e4,Apartment Type Prediction (Data Preprocessing) - Data Every Day #162,20-Jan-21,0,4,0,100,0,10,13.27,0:08:00,61,8.1351,1,1647,1.94
+c5EnOo27loE,Beer Consumption Prediction - Data Every Day #118,6-Dec-20,0,1,1,100,0,6,21.31,0:03:07,86,4.4698,2,1742,1.89
+cpCCZj3U608,100% ACCURACY Earthquake Type Prediction - Data Every Day #058,7-Oct-20,0,1,0,100,0,5,8.58,0:03:53,67,4.3498,0,1434,1.39
+ctuOG7hT_pY,App Type Prediction - Data Every Day #044,23-Sep-20,0,0,0,100,0,8,13.7,0:06:55,84,9.6896,2,1552,1.93
+cxEdY3wi3bI,Handwritten Digit Recognition Using TensorFlow Datasets - Data Every Day #003,13-Aug-20,0,2,0,100,0,9,10.57,0:03:54,97,6.314,0,2131,2.91
+dSYuo6Isbto,Honeybee Image Pollen Detection (CNNs) - Data Every Day #233,31-Mar-21,0,3,0,100,0,9,15.56,0:05:28,70,6.3962,1,1615,1.98
+ddzaEUN375k,Predicting Weight From Food Choices - Data Every Day #064,13-Oct-20,0,1,1,100,0,6,20.22,0:05:57,63,6.2618,2,1534,2.28
+drTBYwjFjn4,Outlier Detection and Removal (Airline Satisfaction Prediction) - Data Every Day #187,14-Feb-21,0,8,1,100,0,22,9.83,0:05:37,165,15.4586,2,1951,3.54
+eaGHdQaXa-A,Free/Paid App Classification - Data Every Day #095,13-Nov-20,0,1,0,100,0,4,27.69,0:04:27,35,2.5982,0,1448,1.45
+eaexjDcha94,Indian Food Classification - Data Every Day #051,30-Sep-20,0,6,4,100,0,16,6.26,0:02:56,355,17.4459,4,2978,7.32
+euEOFgLRpEY,Electric Motor Temperature Prediction (EDA + ML) - Data Every Day #119,7-Dec-20,0,4,3,100,0,12,19.36,0:02:50,136,6.4423,1,2113,1.94
+f4sKKUecN14,Simple Monkey Image Recognition - Data Every Day #067,16-Oct-20,0,1,0,100,0,4,22.98,0:04:45,31,2.4595,0,1611,1.43
+fWSxa0sJfu4,Bakery Day of Sale Prediction (Data Preprocessing) - Data Every Day #204,3-Mar-21,0,2,0,100,0,9,18.09,0:06:26,72,7.7296,0,1688,3.02
+fpvnx9pNRYc,News Headline Sarcasm Detection (Word Embeddings) - Data Every Day #232,30-Mar-21,0,1,3,100,0,8,14.1,0:03:46,54,3.3989,1,1334,2.1
+fy6LqgOFIlc,High Performance Income Prediction - Data Every Day #029,8-Sep-20,0,1,2,100,0,2,14.87,0:04:30,67,5.0299,0,1599,2.13
+g4HqFe8DVMI,Orthopedic Condition Classification - Data Every Day #112,1-Dec-20,0,0,0,100,0,6,14.01,0:03:24,38,2.1534,0,1427,1.89
+gIqWzPRkrOk,Air Pressure System Failure Prediction (Dimensionality Reduction) - Data Every Day #171,28-Jan-21,0,3,1,100,0,11,15.86,0:04:13,83,5.8432,1,1438,2.78
+grd1W0HBdlk,Netherlands Rent Prediction (Pipeline) - Data Every Day #239,7-Apr-21,0,1,0,100,0,7,13.26,0:04:16,65,4.6238,0,1315,2.97
+gybAf1Jv2M8,White Wine Quality Prediction - Data Every Day #054,3-Oct-20,0,0,5,100,0,5,10.03,0:02:38,252,11.0777,7,2429,6.05
+h1AFMLZcDSA,Udemy Course Rating Prediction - Data Every Day #078,27-Oct-20,0,1,0,100,0,3,10.04,0:03:53,51,3.3084,0,1496,2.27
+h6cTpNxTN_I,Predicting Loan Grades With TensorFlow - Data Every Day #053,2-Oct-20,0,1,0,100,0,8,10.44,0:05:59,127,12.6674,3,1573,2.8
+hB6Wx7HX0c4,Automobile Accident Severity Prediction - Data Every Day #087,5-Nov-20,0,1,1,100,0,6,11.13,0:03:22,77,4.3331,1,1590,2.2
+hhsz2FKGsuQ,Children's Book Age Group Prediction (GRU/Multi-Input) - Data Every Day #080,29-Oct-20,0,1,0,100,0,4,8.01,0:03:50,54,3.454,0,1570,1.59
+ioNBmzKJiUE,Fire/Water Pokémon Classification - Data Every Day #150,8-Jan-21,0,4,0,100,0,3,11.9,0:04:20,112,8.0965,4,3729,1.56
+j7WGVhF7g3M,Predicting Fetal Health With Optuna - Data Every Day #084,2-Nov-20,0,3,0,100,0,6,16.48,0:03:17,87,4.7638,2,1656,3.68
+jHrGpb9w4MM,Banking Crisis Prediction - Data Every Day #043,22-Sep-20,0,1,2,100,0,4,12.91,0:02:36,39,1.6987,1,1394,1.58
+jZVVFUhsbgY,Cat vs. Dog Image Classification (CNNs) - Data Every Day #207,6-Mar-21,0,1,5,100,0,7,7.64,0:02:39,156,6.9217,3,2332,4.03
+jhLtn70XpXQ,Identifying Pneumonia With TensorFlow - Data Every Day #012,22-Aug-20,0,1,0,100,0,5,17.65,0:03:08,74,3.8826,0,1648,2.31
+k7Joc0aKRVg,Spotify Top 50 Song Popularity Prediction - Data Every Day #057,6-Oct-20,0,3,13,100,0,23,20.23,0:03:50,635,40.6451,10,4990,7.35
+kDNb6n4HHsg,App Store Genre Prediction - Data Every Day #124,13-Dec-20,0,0,0,100,0,11,8.45,0:05:58,127,12.6551,0,8200,0.83
+kS1SsTBRo4k,Walmart Holiday Sale Prediction - Data Every Day #082,31-Oct-20,0,0,2,100,0,10,23.96,0:02:53,191,9.2271,2,2078,5.82
+kjdVOeV0Ytw,Olympic Medal Winner Prediction - Data Every Day #102,20-Nov-20,0,5,0,100,0,7,14.36,0:04:15,136,9.6701,3,3049,1.94
+lm7BmXqmtpg,High-Performance Rainfall Prediction - Data Every Day #020,30-Aug-20,0,1,11,100,0,19,12.89,0:04:58,580,48.0716,3,5564,6.97
+moqaKwvXyV0,Liver Disease Prediction - Data Every Day #047,26-Sep-20,0,1,7,100,0,6,15.35,0:02:37,296,12.924,4,2939,5.34
+n54LNfrIzXw,Fish Species Classification - Data Every Day #027,6-Sep-20,0,1,4,100,0,7,17.49,0:02:27,199,8.1492,0,2070,6.14
+nhnxoQu7BHk,Predicting Movie Ratings From Keywords - Data Every Day #055,4-Oct-20,0,0,0,100,0,4,4.86,0:02:59,81,4.0395,2,1978,2.48
+nklFC-_xi2U,Exoplanet Identification (Model Selection) - Data Every Day #236,3-Apr-21,0,5,0,100,0,9,12.57,0:04:21,69,5.0138,1,1327,2.26
+no2sbnV-y2s,Graduate School Acceptance Prediction - Data Every Day #170,28-Jan-21,0,0,0,100,0,5,18.29,0:03:28,47,2.7246,1,1327,2.11
+o-8Q7fpcGH8,E. Coli Protein Localization Site Prediction - Data Every Day #167,25-Jan-21,0,0,0,100,0,6,17.97,0:02:54,60,2.9046,2,1650,2.12
+oM4Wl2zbexU,Supply Chain Shipment Type Prediction (Data Preprocessing) - Data Every Day #215,14-Mar-21,0,3,4,100,0,12,16.02,0:06:52,142,16.2687,3,2036,2.95
+oXUDU101e2c,Horse Survival Prediction - Data Every Day #116,4-Dec-20,0,2,1,100,0,15,12.91,0:04:23,127,9.2999,1,2439,1.48
+ol4YmdPyCSo,Medical Expense Prediction - Data Every Day #155,13-Jan-21,0,3,0,100,0,6,13.63,0:02:17,139,5.3106,0,5475,1.64
+p2ECyL4nr68,Tabular Zoo Animal Classification - Data Every Day #032,11-Sep-20,0,1,2,100,0,4,22.28,0:03:01,176,8.8878,3,1843,4.77
+p3uysBjzoeA,Basketball Performance Prediction (k-means Clustering) - Data Every Day #157,15-Jan-21,0,0,0,100,0,6,16.93,0:03:37,79,4.7631,1,2073,2.03
+pxBBIy5CoXs,Mall Customer Data Market Segmentation - Data Every Day #010,20-Aug-20,0,2,21,100,0,24,13.84,0:03:50,897,57.4886,10,7783,7.09
+pyeUcmmLeiM,Credit Card Customer Attrition Prediction - Data Every Day #113,1-Dec-20,0,1,8,88.89,1,8,14.87,0:04:16,278,19.7908,6,3415,4.13
+qCk8nKt2sS0,Restaurant Tip Prediction (EDA) - Data Every Day #174,31-Jan-21,0,2,0,100,0,6,19.15,0:04:45,50,3.9632,0,1543,1.69
+qFBWzxy6CDY,Top 10 Ramen Prediction With Multiple Inputs - Data Every Day #072,21-Oct-20,0,0,0,100,0,4,8.59,0:05:59,32,3.1962,0,1575,1.4
+qZ8rFbJ9NDI,Predicting Length of Hospital Stay - Data Every Day #141,29-Dec-20,0,3,2,100,0,8,17.37,0:02:44,115,5.2595,1,1750,4
+qko_4h1ayMI,Predicting Absenteeism at Work - Data Every Day #139,27-Dec-20,0,1,2,100,0,8,17.19,0:02:56,110,5.3841,3,1924,3.07
+r0eaUpurifA,Predicting Age From Food Preference - Data Every Day #034,14-Sep-20,0,2,3,100,0,7,22.91,0:03:06,82,4.2535,0,1460,1.85
+rK_Y9DjQ8js,Critical Heat Flux Prediction - Data Every Day #244,11-Apr-21,0,4,0,100,0,4,21.51,0:03:43,58,3.5978,0,702,3.85
+rWZo8FrIlUQ,Hepatitis Survival Prediction (Clustering) - Data Every Day #193,20-Feb-21,0,3,4,100,0,9,25.28,0:07:53,81,10.6588,1,1734,2.19
+rcKeo-Jh3XM,Predicting Hospital Stays - Data Every Day #024,3-Sep-20,0,1,2,100,0,3,12.89,0:06:00,52,5.2135,0,1458,2.06
+s3g0MJcJZyA,Introvert vs. Extrovert Classification - Data Every Day #110,28-Nov-20,0,4,0,100,0,9,15.94,0:04:13,176,12.3758,4,1806,2.21
+tMaSOYLO-EQ,NYC Restaurant Inspection Result Prediction (Preprocessing) - Data Every Day #195,22-Feb-21,0,5,0,100,0,7,16.94,0:05:59,78,7.7945,1,1716,2.74
+tkCIqWJNwqI,Vegetable Price Prediction (Model Selection) - Data Every Day #184,11-Feb-21,0,3,0,100,0,10,15.41,0:04:36,124,9.5326,5,1829,3.88
+tkCRLBvReJk,Predicting Breakfast Cereal Ratings - Data Every Day #062,11-Oct-20,0,2,2,100,0,5,18.59,0:03:39,153,9.3311,1,2047,4.64
+uu6Gx4gI-zg,Disneyland Review Rating Prediction (Word Embeddings) - Data Every Day #241,8-Apr-21,0,5,0,100,0,10,18.87,0:04:24,53,3.9013,4,1109,2.52
+uyZZIVngbqs,Can We Classify Gender? - Data Every Day #031,10-Sep-20,0,0,0,100,0,6,17.07,0:04:39,38,2.9554,0,1380,1.23
+v0XdNicMXuY,Employee Termination Prediction - Data Every Day #143,1-Jan-21,0,2,0,100,0,6,10.92,0:05:42,142,13.5208,1,3595,1.56
+v1ZTO-L47gs,Building a Spam Classifier From Scratch - Data Every Day #008,19-Aug-20,0,0,1,100,0,5,15.25,0:07:29,67,8.3662,0,1832,2.24
+vBhGvRAqBQ0,Investment Bank Program Type Prediction (Feature Engineering) - Data Every Day #151,9-Jan-21,0,1,0,100,0,10,19.16,0:04:42,93,7.2892,1,1809,2.21
+vzWbbqgjV9g,Melbourne Property Price Prediction - Data Every Day #120,9-Dec-20,0,6,1,100,0,8,12.84,0:06:16,180,18.8446,2,3424,2.42
+vziOFDrOkq0,Candy Bar Prediction - Data Every Day #021,31-Aug-20,0,1,0,100,0,3,27.02,0:02:21,51,2.0016,2,1528,1.24
+w1exIx0GDeQ,Telemarketing Effectiveness Prediction - Data Every Day #100,18-Nov-20,0,1,0,100,0,3,11.61,0:04:29,136,10.167,2,5438,1.66
+w7Q7phWnOIY,Physical Activity Prediction - Data Every Day #213,12-Mar-21,0,2,0,88.89,1,8,22.92,0:04:25,82,6.051,3,1489,3.63
+wD7I6jCQXZ8,Car Retail Price Prediction (Model Selection) - Data Every Day #179,6-Feb-21,0,2,2,100,0,11,16.54,0:07:26,100,12.4022,0,1461,2.05
+wqQ_bBOSoH0,Gender Classification From Vocal Data (Using 2D CNNs) - Data Every Day #090,8-Nov-20,0,1,4,100,0,4,11.2,0:02:52,65,3.1086,0,1700,1.47
+xHKEcMkR9d8,Car Loan Default Prediction (Data Preprocessing) - Data Every Day #165,22-Jan-21,0,0,4,100,0,5,12.53,0:06:09,146,14.9656,3,2146,3.22
+xgRxO9iqITI,Pneumonia X-Ray Image Recognition - Data Every Day #088,6-Nov-20,0,3,0,100,0,2,16.32,0:04:25,58,4.2834,3,1693,1.83
+y70bUYIPe2A,Dealing With Imbalanced Classes (Forest Cover Type Prediction) - Data Every Day #125,14-Dec-20,0,3,7,100,0,13,12.6,0:04:58,251,20.8134,2,5775,2.37
+yeB59AI2Peo,Predicting Student Grades - Data Every Day #016,26-Aug-20,0,2,5,100,0,12,14.26,0:03:27,263,15.1233,4,3298,5.12
+zWnPsPdivKM,Diabetes Risk Prediction (Model Selection) - Data Every Day #172,29-Jan-21,0,0,2,100,0,5,16.83,0:02:39,111,4.9104,3,1393,3.23
