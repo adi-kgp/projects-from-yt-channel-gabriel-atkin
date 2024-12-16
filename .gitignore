@@ -171,3 +171,4 @@ cat-scan-location-prediction/slice_localization_data.csv.zip
 kiva-crowdfunding-loan-type-prediction/kiva_loans.csv
 mobile-payment-fraud-detection/PS_20174392719_1491204439457_log.csv
 detecting-cracks-in-concrete-images-using-cnn/archive
+blood-cell-image-classification/images
