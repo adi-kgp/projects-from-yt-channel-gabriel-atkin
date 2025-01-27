@@ -175,3 +175,4 @@ blood-cell-image-classification/images
 fish-image-species-classification/archive
 marvel-character-image-classification-(transfer-learning)/archive
 physical-activity-prediction/mhealth_raw_data.csv
+soccer-player-performance-prediction/database.sqlite
